@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798175008874",
+    "firebase_url": "https://complaint-management-f9647.firebaseio.com",
+    "project_id": "complaint-management-f9647",
+    "storage_bucket": "complaint-management-f9647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798175008874:android:e43e7fcfe67bee1e7b1213",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798175008874-8ds77a1muj9t8d5dgjai2pi3mmse88v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyGrmQZYgRQ6MPSps0gn3WDCXc6JjdXkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798175008874-8ds77a1muj9t8d5dgjai2pi3mmse88v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
